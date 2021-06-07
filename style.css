@@ -1,0 +1,36 @@
+
+body {
+    font-family: 'Trebuchet MS', sans-serif;
+}
+#article-container {
+    display: flex;
+    width: 950px;
+    padding: 5px;
+    margin: auto;
+    background-color: #ffffff;
+}
+.left-block {
+    text-align: center;
+    width: 250px;
+    border-right: 1px solid black;
+    margin-right: 10px;
+}
+img {
+    margin: 20px 10px;
+}
+p {
+    margin: 20px 10px;
+    text-align: justify;
+}
+a {
+    color: rgb(142,176,187);
+}
+ul {
+    text-align: left;
+}
+h1, p {
+    color: rgb(34,34,34);
+}
+h2, h3 {
+    color: rgb(70,69,69)
+}
